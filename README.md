@@ -2,7 +2,7 @@ Its an RP2040 devboard which i make using the Guide which i can use in my projec
 
 **PCB**
 
-<img width="1584" height="916" alt="Screenshot 2026-01-24 210837" src="https://github.com/user-attachments/assets/38dabb0e-9729-4ddd-aec3-d3ddb02f61b7" />
+<img width="1639" height="923" alt="image" src="https://github.com/user-attachments/assets/888e3774-d379-4c44-a4a3-02f5bbed2b69" />
 
 <img width="1376" height="874" alt="Screenshot 2026-01-24 210919" src="https://github.com/user-attachments/assets/64e4e7ce-4a4d-4e62-9127-e664f33a7d8b" />
 
